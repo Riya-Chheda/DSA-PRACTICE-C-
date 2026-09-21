@@ -49,6 +49,5 @@ using namespace std;
     {
         cin>>arr[i];
     }
-    cout<<"The minimum largest sum is : "<<splitArray(arr, n, m)<<endl;
-    return 0;
-};
+    cout<<"The minimum largest sum is : "<<splitArray(arr, n, m);
+//  
